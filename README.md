@@ -77,22 +77,24 @@ Once the server is running, you can start using TodoBuddy to manage your tasks. 
 
 ## Screenshots
 
+## Screenshots
+
 📸 **Screenshots:**
 
 ### Home Page
-![Home](![Image](https://github.com/user-attachments/assets/f5204820-c749-4d2b-92f8-5e371aef0213))
+![Home](screenshots/home.png)
 
 ### Task List Page
-![Task List](![Image](https://github.com/user-attachments/assets/3dc09a39-421d-4f1f-8c44-8574926bf20a))
+![Task List](screenshots/task_list.png)
 
 ### Task Detail Page
-![Task Detail](![Image](https://github.com/user-attachments/assets/358e086a-00be-4f65-a747-446d63584467))
+![Task Detail](screenshots/task_detail.png)
 
 ### Task Edit Page
-![Task Edit](![Image](https://github.com/user-attachments/assets/6f30f3c3-a443-409c-b346-cc1ac358aaaf))
+![Task Edit](screenshots/task_edit.png)
 
 ### Task Delete Page
-![Task Delete](![Image](https://github.com/user-attachments/assets/e16c7ca6-5229-49c7-b335-786d4c6e35b2))
+![Task Delete](screenshots/task_delete.png)
 
 ## Technologies Used
 
