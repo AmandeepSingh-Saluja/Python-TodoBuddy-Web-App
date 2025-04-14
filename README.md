@@ -75,7 +75,6 @@ Once the server is running, you can start using TodoBuddy to manage your tasks. 
 - **Task Edit:** Edit an existing task.
 - **Task Delete:** Delete a task.
 
-## Screenshots
 
 ## Screenshots
 
